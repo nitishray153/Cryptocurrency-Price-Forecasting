@@ -4,3 +4,4 @@ plotly
 pandas
 chart_studio
 prophet
+yfinance==0.2.40
