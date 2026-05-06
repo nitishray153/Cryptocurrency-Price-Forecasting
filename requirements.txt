@@ -3,5 +3,4 @@ streamlit
 plotly
 pandas
 chart_studio
-pystan
-fbprophet
+prophet
